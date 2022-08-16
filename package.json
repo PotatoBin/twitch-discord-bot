@@ -1,0 +1,25 @@
+{
+  "name": "bot.sem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "@twurple/api": "^5.2.1",
+    "@twurple/auth": "^5.2.1",
+    "@twurple/auth-tmi": "^5.2.1",
+    "@twurple/chat": "^5.2.1",
+    "@twurple/eventsub": "^5.2.1",
+    "@twurple/eventsub-ngrok": "^5.2.1",
+    "async": "^3.2.4",
+    "discord.js": "^14.1.2",
+    "dotenv": "^16.0.1",
+    "fs": "^0.0.1-security"
+  }
+}

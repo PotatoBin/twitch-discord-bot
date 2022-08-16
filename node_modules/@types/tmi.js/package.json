@@ -1,0 +1,35 @@
+{
+    "name": "@types/tmi.js",
+    "version": "1.8.1",
+    "description": "TypeScript definitions for tmi.js",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/tmi.js",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "William Papsco",
+            "url": "https://github.com/wpapsco",
+            "githubUsername": "wpapsco"
+        },
+        {
+            "name": "Corbin Crutchley",
+            "url": "https://github.com/crutchcorn",
+            "githubUsername": "crutchcorn"
+        },
+        {
+            "name": "Daniel Fischer",
+            "url": "https://github.com/d-fischer",
+            "githubUsername": "d-fischer"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/tmi.js"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "66f71156a979f9937363f343a461b530d0a052cb6201943197a9c713ab359b2f",
+    "typeScriptVersion": "3.8"
+}
